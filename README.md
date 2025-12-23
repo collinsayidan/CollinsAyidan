@@ -4,7 +4,7 @@
 Focused on transforming raw data into clear, actionable insights  
 Skilled in **Python, SQL, Power BI, Tableau, Azure & BI Development** 
 
-
+    
 ## About Me  
 - Data Analyst with strong experience in data analytics, automation, and insights development  
 - Currently working on advanced analytics projects in public sector and private consulting  
@@ -53,19 +53,6 @@ A collection of real-world analytics case studies, dashboards, and automation sc
 </p>
 
 
-# GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CollinsAyidan&show_icons=true&theme=tokyonight&hide_border=false" height="/github-readme-stats.vercel.app/api/top-langs/?username=CollinsAyidan&layout=compact&theme=tokyonight&hide_border=false"
-# GitHub Streak (Animated Theme)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.cominsAyidan&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D
-</p><br>
-
-
-
-
 # Let's Connect
 💼 **LinkedIn:** *www.linkedin.com/in/collins-ayidan*  
 🌐 **Portfolio Website:** **  
@@ -73,3 +60,12 @@ A collection of real-world analytics case studies, dashboards, and automation sc
 
 
 ⭐ *If you like my work, feel free to star my repositories - it helps others discover them!*  
+
+# GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CollinsAyidan&show_icons=true&theme=tokyonight&hide_border=false" height="/github-readme-stats.vercel.app/api/top-langs/?username=CollinsAyidan&layout=compact&theme=tokyonight&hide_border=false"
+# GitHub Streak (Animated Theme)
+<p align="center">
+  <img src="https://streak-stats.demolab.cominsAyidan&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D
+</p><
