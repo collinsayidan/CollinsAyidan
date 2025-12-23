@@ -5,18 +5,6 @@ Focused on transforming raw data into clear, actionable insights
 Skilled in **Python, SQL, Power BI, Tableau, Azure & BI Development** 
 
 
-### **Languages & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776or-the-badge&logo=python&logoColor=white
-  <img src="https://img.shields.io/badge/SQLyle=for-the-badge&logo=postgresql&logoColor=white
-  <img src="https://img.shields.io/b%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-theo=tableau&logoColor=white
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&softazure&logoColor=white
-</p>
-
-
-
 ## About Me  
 - Data Analyst with strong experience in data analytics, automation, and insights development  
 - Currently working on advanced analytics projects in public sector and private consulting  
@@ -74,7 +62,6 @@ A collection of real-world analytics case studies, dashboards, and automation sc
 <p align="center">
   <img src="https://streak-stats.demolab.cominsAyidan&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D
 </p><br>
-
 
 
 
