@@ -73,10 +73,10 @@ A collection of real-world analytics case studies, dashboards, and automation sc
 
 <p align="center">
   <img src="https://streak-stats.demolab.cominsAyidan&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D
-</p>
+</p><br>
 
 
-## Let's Connect  
+## Let's Connect
 💼 **LinkedIn:** *www.linkedin.com/in/collins-ayidan*  
 🌐 **Portfolio Website:** **  
 📨 **Email:** *collinsayidan@datasciencehub.co.uk*  
