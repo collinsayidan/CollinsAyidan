@@ -48,7 +48,7 @@ A collection of real-world analytics case studies, dashboards, and automation sc
 </p>
 
 <!-- Streaks -->
-<p align="center">
+<p align="left">
   https://github-readme-streak-stats.herokuapp.com/?user=CollinsAyidan&theme=react
 </p>
 
@@ -59,13 +59,14 @@ A collection of real-world analytics case studies, dashboards, and automation sc
 📨 **Email:** *collinsayidan@datasciencehub.co.uk*  
 
 
-⭐ *If you like my work, feel free to star my repositories - it helps others discover them!*  
 
 # GitHub Activity
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CollinsAyidan&show_icons=true&theme=tokyonight&hide_border=false" height="/github-readme-stats.vercel.app/api/top-langs/?username=CollinsAyidan&layout=compact&theme=tokyonight&hide_border=false"
 # GitHub Streak (Animated Theme)
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.cominsAyidan&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D
 </p><
+
+⭐ *If you like my work, feel free to star my repositories - it helps others discover them!*  
