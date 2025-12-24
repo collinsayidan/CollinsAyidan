@@ -40,33 +40,21 @@ A collection of real-world analytics case studies, dashboards, and automation sc
 
 
 #  GitHub Stats
-
 <!-- Main Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Collinsw_icons=true&theme=react
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsAyidanmpact&theme=react
 </p>
-
 <!-- Streaks -->
 <p align="left">
   https://github-readme-streak-stats.herokuapp.com/?user=CollinsAyidan&theme=react
 </p>
 
 
+
 # Let's Connect
 💼 **LinkedIn:** *www.linkedin.com/in/collins-ayidan*  
 🌐 **Portfolio Website:** **  
 📨 **Email:** *collinsayidan@datasciencehub.co.uk*  
-
-
-
-# GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CollinsAyidan&show_icons=true&theme=tokyonight&hide_border=false" height="/github-readme-stats.vercel.app/api/top-langs/?username=CollinsAyidan&layout=compact&theme=tokyonight&hide_border=false"
-# GitHub Streak (Animated Theme)
-<p align="left">
-  <img src="https://streak-stats.demolab.cominsAyidan&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D
-</p><
-
+---
 ⭐ *If you like my work, feel free to star my repositories - it helps others discover them!*  
